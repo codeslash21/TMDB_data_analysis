@@ -3,22 +3,22 @@
 This project is to analyse the TMDB movie dataset which contains data of around _11,000_ movies. Here we have analyse the depending factors of a successful movie and all other relationships between depending factors.
 
 ## Getting Started:
-#### Files:
+### Files:
 ```
 ├── data
 |   |
-│   └── tmdb-movies.csv   // dataset
+│   └── tmdb-movies.csv           // dataset
 ├── pkg
     |
-    └── analysis_fn.py   // python module for the necessary functions
-├── TMDB_data_analysis.ipynb   // jupyter notebook used for analysis
-├── TMDB_data_analysis.html   // html format of jupyter notebook used for analysis
-├── environment.yml   // The dependencies we need to create environment
+    └── analysis_fn.py            // python module for the necessary functions
+├── TMDB_data_analysis.ipynb      // jupyter notebook used for analysis
+├── TMDB_data_analysis.html       // html format of jupyter notebook used for analysis
+├── environment.yml               // The dependencies we need to create environment
 ├── README.md
 └── LICENSE
 ````
 
-#### Setup:
+### Setup:
 To create environment with necessary python libraries for this analysis run the following command
 ```
 conda env create -f environment.yml
