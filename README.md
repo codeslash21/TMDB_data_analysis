@@ -1,4 +1,4 @@
-# TMDB_movie_database
+# TMDB movie database
 
 This project is to analyse the TMDB movie dataset which contains data of around _11,000_ movies. Here we have analyse the depending factors of a successful movie and all other relationships between depending factors.
 
